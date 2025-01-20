@@ -1,0 +1,20 @@
+.wrap {
+ 
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    width: 100%;
+  }
+  img{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 100%;
+  }
+
+  
+  #excuse {
+    text-align: center;
+  }
